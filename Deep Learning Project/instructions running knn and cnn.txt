@@ -1,0 +1,12 @@
+running KNN:
+open anaconda prompt, navigate to knn algo folder
+run the good good.py : line by line 
+
+
+
+
+running CNN:
+
+activate tensorflow 
+run CNN_MNIST.py on command line: python CNN_MNIST.py 
+wait for things to train
