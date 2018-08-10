@@ -16,6 +16,21 @@ i)	Three Layer Convolutional Neural Network using Tensorflow:	99.70%
 ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
 
+## Output Documents:
+
+i) SciKit Learn KNN Output
+Navigate to 
+```
+Outputs > SciKit Learn KNN Output.pdf
+```
+
+ii) Tensorboard CNN Output
+Navigate to
+```
+Outputs > Tensorboard CNN Output.pdf
+```
+
+
 ## Test Images Classification Output:
 
 ![Output a1](Outputs/output.png?raw=true "Output a1")      
