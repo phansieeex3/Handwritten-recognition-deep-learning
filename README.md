@@ -25,6 +25,8 @@ ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
 [IJARCET-VOL-6-ISSUE-7-990-997](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-6-ISSUE-7-990-997.pdf)
 
+**Github source:** https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+
 # Requirements
 
 * Python 3.5 +
